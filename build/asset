@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Cryptocurrency-API-App/static/css/main.581eb986.chunk.css",
+    "main.js": "/React-Cryptocurrency-API-App/static/js/main.aa9f76aa.chunk.js",
+    "main.js.map": "/React-Cryptocurrency-API-App/static/js/main.aa9f76aa.chunk.js.map",
+    "runtime-main.js": "/React-Cryptocurrency-API-App/static/js/runtime-main.2b32de98.js",
+    "runtime-main.js.map": "/React-Cryptocurrency-API-App/static/js/runtime-main.2b32de98.js.map",
+    "static/js/2.744a1630.chunk.js": "/React-Cryptocurrency-API-App/static/js/2.744a1630.chunk.js",
+    "static/js/2.744a1630.chunk.js.map": "/React-Cryptocurrency-API-App/static/js/2.744a1630.chunk.js.map",
+    "index.html": "/React-Cryptocurrency-API-App/index.html",
+    "static/css/main.581eb986.chunk.css.map": "/React-Cryptocurrency-API-App/static/css/main.581eb986.chunk.css.map",
+    "static/js/2.744a1630.chunk.js.LICENSE.txt": "/React-Cryptocurrency-API-App/static/js/2.744a1630.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b32de98.js",
+    "static/js/2.744a1630.chunk.js",
+    "static/css/main.581eb986.chunk.css",
+    "static/js/main.aa9f76aa.chunk.js"
+  ]
+}
